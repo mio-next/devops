@@ -2,8 +2,7 @@
 
 set -u
 
-function help()
-{
+function help() {
     cat <<EOF
 
 
